@@ -1,2 +1,4 @@
-#Merhaba
-##Projenin detaylarini buradan takip edebilirsiniz.
+## Project SennurGit
+
+Bu bir ödev projesidir.
+
